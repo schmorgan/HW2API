@@ -1,0 +1,17 @@
+#map {
+    height: 800px;
+    width: 800px;
+    border: 5px solid black;
+
+}
+
+h1{
+    text-align: center;
+    color: black;
+    font-family: 'Gill Sans';
+}
+
+p.textClass {
+    color:grey;
+    font-family: 'Arial';
+}
